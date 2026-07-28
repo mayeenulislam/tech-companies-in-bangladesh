@@ -27,7 +27,9 @@ Jump To:
 
 <<v_to_z, Alphabetical Order: V - Z>>
 
-<<0_to_9, Alphabetical Order: 0 - 9>>
+<<1_to_9, Alphabetical Order: 1 - 9>>
+
+<<misc, Some other companies with IT section>>
 
 {nbsp} +
 {nbsp} +
@@ -1498,6 +1500,9 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 
 |===
 
+<<top, Back to Top>>
+
+[#misc]
 ==== Some other companies with IT section
 |===
 |Company Name |Office location |Technologies |Web presence |No. of Software Engineers
@@ -1596,6 +1601,8 @@ https://www.linkedin.com/company/orbitaxbd/[LinkedIn]
 |Please update
 
 |===
+
+<<top, Back to Top>>
 
 {nbsp} +
 {nbsp} +
