@@ -1,3 +1,4 @@
+[#top]
 = Tech Companies in Bangladesh
 
 List of tech companies to help developers to find jobs.
@@ -8,9 +9,30 @@ List of tech companies to help developers to find jobs.
 - Add the company in alphabetical order.
 - Create pull request.
 
+Jump To:
+
+<<a_to_c, Alphabetical Order: A - C>>
+
+<<d_to_f, Alphabetical Order: D - F>>
+
+<<g_to_i, Alphabetical Order: G - I>>
+
+<<j_to_l, Alphabetical Order: J - L>>
+
+<<m_to_o, Alphabetical Order: M - O>>
+
+<<p_to_r, Alphabetical Order: P - R>>
+
+<<s_to_u, Alphabetical Order: S - U>>
+
+<<v_to_z, Alphabetical Order: V - Z>>
+
+<<0_to_9, Alphabetical Order: 0 - 9>>
+
 {nbsp} +
 {nbsp} +
 
+[#a_to_c]
 ==== Alphabetical Order: A - C
 |===
 |Company Name |Office location |Technologies |Web presence |No. of Software Engineers
@@ -300,6 +322,9 @@ https://github.com/ChumbokIT[Github]
 
 |===
 
+<<top, Back to Top>>
+
+[#d_to_f]
 ==== Alphabetical Order: D - F
 |===
 |Company Name |Office location |Technologies |Web presence |No. of Software Engineers
@@ -482,6 +507,9 @@ https://www.linkedin.com/company/era-infotech-ltd/posts/[LinkedIn]
 
 |===
 
+<<top, Back to Top>>
+
+[#g_to_i]
 ==== Alphabetical Order: G - I
 |===
 |Company Name |Office location |Technologies |Web presence |No. of Software Engineers
@@ -692,6 +720,9 @@ https://www.linkedin.com/company/era-infotech-ltd/posts/[LinkedIn]
 
 |===
 
+<<top, Back to Top>>
+
+[#j_to_l]
 ==== Alphabetical Order: J - L
 |===
 |Company Name |Office location |Technologies |Web presence |No. of Software Engineers
@@ -766,6 +797,9 @@ https://www.facebook.com/hellokompass[Facebook]
 
 |===
 
+<<top, Back to Top>>
+
+[#m_to_o]
 ==== Alphabetical Order: M - O
 |===
 |Company Name |Office location |Technologies |Web presence |No. of Software Engineers
@@ -987,6 +1021,9 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 
 |===
 
+<<top, Back to Top>>
+
+[#p_to_r]
 ==== Alphabetical Order: P - R
 |===
 |Company Name |Office location |Technologies |Web presence |No. of Software Engineers
@@ -1083,6 +1120,9 @@ https://www.linkedin.com/company/optimizely/[LinkedIn]
 
 |===
 
+<<top, Back to Top>>
+
+[#s_to_u]
 ==== Alphabetical Order: S - U
 |===
 |Company Name |Office location |Technologies |Web presence |No. of Software Engineers
@@ -1331,6 +1371,9 @@ https://www.linkedin.com/company/tigerit-bangladesh-limited/[LinkedIn]
 
 |===
 
+<<top, Back to Top>>
+
+[#v_to_z]
 ==== Alphabetical Order: V - Z
 |===
 |Company Name |Office location |Technologies |Web presence |No. of Software Engineers
@@ -1428,6 +1471,9 @@ https://www.linkedin.com/company/widespace-ab[LinkedIn]
 
 |===
 
+<<top, Back to Top>>
+
+[#1_to_9]
 ==== Alphabetical Order: 1 - 9
 |===
 |Company Name |Office location |Technologies |Web presence |No. of Software Engineers
