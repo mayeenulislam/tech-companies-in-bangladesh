@@ -1533,6 +1533,12 @@ https://www.linkedin.com/company/ipay-systems-ltd./[LinkedIn]
 https://www.facebook.com/iPayBangladesh/[Facebook]
 |Please update
 
+|Incepta Pharmaceuticals Ltd. (IT Department)
+|Head Office: 40, Shahid Tajuddin Ahmed Sarani, Tejgaon I/A, Dhaka-1208, Bangladesh
+|Laravel, PHP, Node.js, JavaScript, MySQL
+|https://www.inceptapharma.com/[Website]
+|Please update
+
 |LightCastle Partners
 |Level 5, House 10/12, Road 1, Block B, Niketan, Gulshan 1, Dhaka 1212, Bangladesh
 |PHP, Laravel, JavaScript, React, Node, Data Analysis
