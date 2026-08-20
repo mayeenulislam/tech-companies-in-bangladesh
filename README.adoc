@@ -434,6 +434,16 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |https://www.linkedin.com/company/esoftlimited/[LinkedIn]
 |Please update
 
+|EquiSaaS BD
+|734, AMIR PALACE, Hazrat Ali Road, West Nakhalpara, Tejgaon, Dhaka 1215
+|Next.js, React, Node.js, Cloud ERP, UI/UX Design, B2B SaaS, Technical SEO
+|https://equisaas-bd.com[Website]
+https://agency.equisaas-bd.com[Agency]
+https://www.linkedin.com/company/equisaas-bd/[LinkedIn]
+https://www.facebook.com/EquiSaaSBD[Facebook]
+https://github.com/EquiSaaS-BD[GitHub]
+|Please update
+
 |Evaly Limited
 |House 8, Road 14, Dhanmondi, Dhaka-1209
 |Node.js, Express.js, Python, Django, Go, REST, Microservices, SQL, NoSQL, SQS, SNS, MQTT
